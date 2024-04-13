@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=TablaResultados
+comment0.text=\r\n\ Modela\ la\ tabla\ de\ posiciones\ del\ torneo\ como\ un\ conjunto\ ordenado.\ \r\n
+comment1.params=clubes
+comment1.target=TablaResultados(java.util.List)
+comment2.params=
+comment2.target=void\ CalcularPosiciones()
+comment2.text=\ \r\n\ Cada\ vez\ que\ se\ llama\ se\ rearma\ la\ tabla\ de\ posiciones\ desde\ cero.\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ Genera\ la\ tabla\ de\ posiciones\ como\ texto.\r\n\ \r\n\ @return\ String\ La\ tabla\ de\ posiciones\r\n
+numComments=4
